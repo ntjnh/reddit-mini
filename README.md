@@ -1,5 +1,7 @@
 # Reddit Mini
 
+This is a mini Reddit React/Redux web application. It's the final portfolio project within the "Front-End Development" section of the [Full-Stack Engineer](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path) career path from Codecademy.
+
 ## Build Your Own Reddit App
 
 For this project, you will build an application for [Reddit](https://www.reddit.com/) using everything you’ve learned, including React and Redux. Reddit is a website where people share links to articles, media and other things on the web. The Reddit API provides data which you will integrate into your application. The application will allow users to view and search posts and comments provided by the API.
