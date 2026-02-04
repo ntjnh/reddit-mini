@@ -101,7 +101,7 @@ Note: As of July 01, 2023, free use of Reddit APIs is [limited to 10 queries per
 
 ## Resources
 
-### Debugging Tips + Helpful Resources
+### Debugging Tips + Helpful Resources
 
 Feeling stuck? Try the following:
 
