@@ -22,7 +22,7 @@
     - How to break up your design into components
     - How your application will look at different screen sizes
 
-- [ ] Create files and run it locally
+- [x] Create files and run it locally
 
     On your computer, create the files needed for your React application. Run your application locally to see what it looks like in the browser.
 
@@ -30,7 +30,7 @@
 
     You can use [create-react-app](https://create-react-app.dev/) to start your React application. If you want to set up Redux automatically, you can use [the Redux flag](https://redux-toolkit.js.org/introduction/quick-start#using-create-react-app).
 
-- [ ] Version control
+- [x] Version control
 
     Set up the folder you created previously to be a Git repository. Push the initial files to a repository on GitHub. You should be consistently committing your changes throughout the project. Make sure to have meaningful commit messages.
 
